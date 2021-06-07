@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DA1/DA1.iml" filepath="$PROJECT_DIR$/DA1/DA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_19BCE2186.iml" filepath="$PROJECT_DIR$/.idea/JAVA_19BCE2186.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB_2_19BCE2186/LAB_2_19BCE2186.iml" filepath="$PROJECT_DIR$/LAB_2_19BCE2186/LAB_2_19BCE2186.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB_3_19BCE2186/LAB_3_19BCE2186.iml" filepath="$PROJECT_DIR$/LAB_3_19BCE2186/LAB_3_19BCE2186.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LAB_4_19BCE2186/LAB_4_19BCE2186.iml" filepath="$PROJECT_DIR$/LAB_4_19BCE2186/LAB_4_19BCE2186.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MysqlCon/MysqlCon.iml" filepath="$PROJECT_DIR$/MysqlCon/MysqlCon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>
